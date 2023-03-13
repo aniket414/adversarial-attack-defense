@@ -26,7 +26,7 @@ I have implemented the attack on [Imagenette](https://s3.amazonaws.com/fast-ai-i
 ### Test accuracies
 
 #### IFGSM attack
-![](/assets/attack-ifgsm.png)
+![](/assets/attack-ifgsm.png =100x100)
 
 #### Sample attack examples
 ![](/assets/attack-examples.png)
