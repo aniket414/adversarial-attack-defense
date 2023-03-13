@@ -26,13 +26,13 @@ I have implemented the attack on [Imagenette](https://s3.amazonaws.com/fast-ai-i
 ### Test accuracies
 
 #### IFGSM attack
-<img src="/assets/attack-ifgsm.png" width="500" height="500">
+<img src="/assets/attack-ifgsm.png" width="450" height="450">
 
 #### Sample attack examples
-![](/assets/attack-examples.png)
+<img src="/assets/attack-examples.png" width="650" height="550">
 
 #### Defense using Input Transformation for IFGSM attack
-![](/assets/defense-ifgsm.png)
+<img src="/assets/defense-ifgsm.png" width="450" height="450">
 
 #### Comparison between the accuracies for attack and defense
-![](/assets/attack-defense.png)
+<img src="/assets/attack-defense.png" width="450" height="450">
